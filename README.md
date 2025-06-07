@@ -4,6 +4,8 @@
 <p align="center">
   <img src="https://github.com/Piyush-ouch/Piyush-ouch/blob/main/spidy.gif?raw=true" width="250" alt="Groot waving"/>
 </p>
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=piyush-ouch)
+
 
 
 
