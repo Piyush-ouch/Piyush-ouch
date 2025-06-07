@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="https://github.com/Piyush-ouch/Piyush-ouch/blob/main/spidy.gif?raw=true" width="250" alt="Groot waving"/>
+  <img src="https://github.com/Piyush-ouch/Piyush-ouch/blob/main/spidy.gif?raw=true" width="400" alt="Groot waving"/>
 </p>
 
 <p align="left">
