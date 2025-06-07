@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/MahirQT/MahirQT/main/ironman.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Fgraphics-cgi%2Firon-man-marvel-superheroes-amoled-pitch-black-minimal-art-6293.html&psig=AOvVaw0Jynf1ohR2EJFysxwpGyiC&ust=1749356057070000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjgu6i53o0DFQAAAAAdAAAAABAT)" width="200"/>
+  <img src="https://raw.githubusercontent.com/MahirQT/MahirQT/main/ironman.gif" width="200"/>
 </p>
 
 - 🔭 I’m currently working on **frontend development**
