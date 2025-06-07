@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **frontend development**
 - 🌱 I’m currently learning **python, AIML**
-- 👨‍💻 You can get more information about me on [Portfolio](https://piyush-ouch.github.io/portfolio1/)
+- 👨‍💻 You can get more information about me on [https://piyush-ouch.github.io/portfolio1/](https://piyush-ouch.github.io/portfolio1/)
 - 📫 How to reach me: **piyushjangade06@gmail.com**
 
 ### ✨ Fun Facts About Me
