@@ -2,8 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahirQT/MahirQT/main/ironman.gif" width="200"/>
+  <img src="https://github.com/Piyush-ouch/Piyush-ouch/blob/main/groot.gif?raw=true" width="250" alt="Groot waving"/>
 </p>
+
 
 
 - 🔭 I’m currently working on **frontend development**
