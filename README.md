@@ -11,10 +11,35 @@
 
 ---
 
-- 🔭 I’m currently working on **frontend development**
-- 🌱 I’m currently learning **python, AIML**
-- 👨‍💻 You can get more information about me on [My Portfolio](https://piyush-ouch.github.io/portfolio1/)
-- 📫 How to reach me: **piyushjangade06@gmail.com**
+### 🔗 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/your-username/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/@your-channel" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" width="40" height="40"/>
+  </a>
+</p>
+
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
@@ -31,34 +56,18 @@
 
 ---
 
-### 🔗 Connect with me
+### 📊 GitHub Stats & Languages
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-username/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@your-channel)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-ouch&layout=compact&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Piyush-ouch&show_icons=true&theme=tokyonight" /></td>
+  </tr>
+</table>
 
----
-
-### 🛠️ Languages and Tools:
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-ouch&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyush-ouch&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Piyush-ouch&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Piyush-ouch&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
