@@ -11,6 +11,13 @@
 
 ---
 
+- 🔭 I’m currently working on **frontend development**
+- 🌱 I’m currently learning **python, AIML**
+- 👨‍💻 You can get more information about me on [My Portfolio](https://piyush-ouch.github.io/portfolio1/)
+- 📫 How to reach me: **piyushjangade06@gmail.com**
+
+---
+
 ### 🔗 Connect with me:
 
 <p align="left">
