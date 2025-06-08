@@ -5,7 +5,7 @@
   <img src="https://github.com/Piyush-ouch/Piyush-ouch/blob/main/spidy.gif?raw=true" width="350" alt="Spidy GIF"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Piyush-ouch.Piyush-ouch" alt="Profile views"/>
 </p>
 
@@ -38,7 +38,6 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
