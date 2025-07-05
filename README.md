@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/your-username/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40"/>
   </a>
-  <a href="https://www.youtube.com/@your-channel" target="_blank">
+  <a href="https://www.youtube.com/@piyush06-y8y" target="_blank">
     <img src="https://img.icons8.com/color/48/youtube-play.png" width="40" height="40"/>
   </a>
 </p>
