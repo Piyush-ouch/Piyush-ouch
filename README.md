@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/piyush-jangade-b30b80331/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/your-username/" target="_blank">
+  <a href="https://www.instagram.com/tactical_terrorg/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40"/>
   </a>
   <a href="https://www.youtube.com/@piyush06-y8y" target="_blank">
