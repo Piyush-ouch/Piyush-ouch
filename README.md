@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate guy from India</h3>
 
 <p align="center">
   <img src="https://github.com/Piyush-ouch/Piyush-ouch/blob/main/spidy.gif?raw=true" width="350" alt="Spidy GIF"/>
