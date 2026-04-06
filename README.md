@@ -5,14 +5,19 @@
   <img src="https://github.com/Piyush-ouch/Piyush-ouch/blob/main/spidy.gif?raw=true" width="350" alt="Spidy GIF"/>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Piyush-ouch&label=Profile%20views&color=0e75b6&style=flat" />
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Piyush-ouch.Piyush-ouch" alt="Profile views"/>
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Engineer;Athlete;Creative+Thinker;Problem+Solver;Tech+Explorer" />
+</p>
 
-- 🔭 I’m currently working on **frontend development**
-- 🌱 I’m currently learning **python, AIML**
+
+- 🔭 I’m currently working on learning **AIML** and we can actually use it to solve the real world problems
+- 🌱 I’m currently learning **python**,**JAVA**
 - 👨‍💻 You can get more information about me on [My Portfolio](https://piyush-ouch.github.io/portfolio1/)
 - 📫 How to reach me: **piyushjangade06@gmail.com**
 
@@ -32,47 +37,36 @@
   </a>
 </p>
 
-
----
-
-### 🛠️ Languages and Tools
-
+## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,git,figma,firebase,flutter" />
 </p>
 
+## 🤖 AI / ML Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 ---
 
 ### ✨ Fun Facts About Me
 
 1. 🏏 **Cricketer at heart** — Playing professional cricket taught me discipline, teamwork, and resilience  
 2. 🤖 **Future-ready** — Currently pursuing a B.Tech in **AI & Machine Learning** from MITAOE  
-3. 🎮 **YouTuber Vibes** — I run a gaming channel called *Tactical Terror* (Call of Duty 💥 is my zone!)  
-4. 🎬 **Creative Editor** — Video editing is more than a hobby — it’s storytelling with a timeline ✂️  
-5. 🏊‍♂️ **Water Warrior** — Gold, silver, bronze — I've won medals in freestyle, butterfly, and more  
-6. 💡 **Builder of Ideas** — I create virtual physics labs, drag-to-set pendulums, and live data plots  
-7. 🧠 **AI Problem Solver** — I’m driven to apply AI in real-world scenarios, from doubt-solving to embedded systems  
-8. 🌌 **Lifelong Learner** — Always exploring new tech, tools, and challenges... just for the thrill of building 🚀  
+3. 🎬 **Creative Editor** — Video editing is more than a hobby — it’s storytelling with a timeline ✂️  
+4. 🏊‍♂️ **Water Warrior** — Gold, silver, bronze — I've won medals in freestyle, butterfly, and more  
+5. 💡 **Builder of Ideas** — I create virtual physics labs, drag-to-set pendulums, and live data plots  
+6. 🧠 **AI Problem Solver** — I’m driven to apply AI in real-world scenarios, from doubt-solving to embedded systems  
+7. 🌌 **Lifelong Learner** — Always exploring new tech, tools, and challenges... just for the thrill of building 🚀  
 
 ---
-
-### 📊 GitHub Stats & Languages
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-ouch&layout=compact&theme=tokyonight" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Piyush-ouch&show_icons=true&theme=tokyonight" /></td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Piyush-ouch&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-ouch&theme=tokyo-night" />
+</p>
