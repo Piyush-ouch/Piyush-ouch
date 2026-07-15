@@ -1,243 +1,295 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Piyush+Jangade;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Hackathon+Winner+🏆;Building+Technology+for+Real+World+Problems" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Piyush-ouch/Piyush-ouch/blob/main/spidy.gif?raw=true" width="350"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Piyush%20Jangade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Systems%20Thinker&descAlignY=58&descSize=18" width="100%"/>
 
-<h3 align="center">
-🚀 AI Engineer • Full Stack Developer • Open Source Contributor • Athlete
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+AI+%2B+IoT+Systems;Machine+Learning+%7C+Full-Stack+Engineering;Turning+Data+Into+Decisions;Open+to+Software+%2F+ML+Engineering+Roles" alt="Typing SVG" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Piyush-ouch&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Piyush-ouch?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Piyush-ouch?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
-</p>
+<br/>
 
----
+![CGPA](https://img.shields.io/badge/CGPA-9.4%20%2F%2010.0-6D28D9?style=for-the-badge&labelColor=1e1b2e)
+![Degree](https://img.shields.io/badge/B.Tech-AI%20%26%20ML-7C3AED?style=for-the-badge&labelColor=1e1b2e)
+![Location](https://img.shields.io/badge/Location-Pune%2C%20India-4C1D95?style=for-the-badge&labelColor=1e1b2e&logo=googlemaps&logoColor=white)
 
-# 💫 About Me
+<br/>
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushjangade06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 
-🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
+<br/>
 
-🏫 MIT Academy of Engineering (MITAOE)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=7C3AED&labelColor=1e1b2e&logo=github)
+![Stars](https://img.shields.io/github/stars/your-github-username?style=for-the-badge&color=6D28D9&labelColor=1e1b2e&logo=github)
 
-💡 Passionate about solving real-world problems using AI
+</div>
 
-🏆 Winner of multiple national hackathons
+<br/>
 
-🌱 Currently learning
+## ⚡ About Me
 
-- Deep Learning
-- Graph Neural Networks
-- FastAPI
-- Large Language Models
-- System Design
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385fa11ecb.gif">
 
-💬 Ask me about
+I'm an **AI/ML Engineer and Full-Stack Developer** pursuing my B.Tech in Artificial Intelligence and Machine Learning at MIT Academy of Engineering, Pune. I build production-grade systems that sit at the intersection of **machine learning, IoT, and scalable full-stack architecture** — not prototypes, but products designed to run in the real world under real constraints.
 
-- AI/ML
-- Python
-- Flutter
-- Firebase
-- Full Stack Development
+My engineering philosophy centers on **end-to-end ownership**: sourcing and engineering data, training and deploying models, and shipping the applications that put those models in front of real users. I care about performance, security, and systems that scale gracefully rather than break quietly.
 
-📫 Reach me
+```yaml
+Engineer:
+  name: "Piyush Jangade"
+  focus: ["Machine Learning", "Full-Stack Engineering", "IoT Systems", "Backend Architecture"]
+  philosophy: "Ship systems, not scripts"
+  mindset: "Product-first, performance-obsessed, security-conscious"
+```
 
-**piyushjangade06@gmail.com**
+**🎯 Open To:** Software Engineering Internships/Roles · Machine Learning Engineering · Full-Stack Development · Research Collaborations
 
-🌐 Portfolio
-
-https://piyush-ouch.github.io/portfolio1/
+<br clear="right"/>
 
 ---
 
-# 🏆 Achievements
+## 🛠️ Tech Stack
 
-🥇 Winner — PCCOE Indradhanu International Hackathon
+**Languages**
 
-🥇 Technical Excellence Award — IIT Bombay e-Yantra Innovation Challenge
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,dart&theme=dark" />
 
-🥇 Best Solution Award — Nirmaan 3.0 Hackathon
+**Frontend**
 
-🎓 Reliance Foundation Scholar 2024
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,jquery&theme=dark" />
 
-🏏 Professional Cricketer
+**Backend & Databases**
 
-🏊 National Medalist Swimmer
+<img src="https://skillicons.dev/icons?i=nodejs,flask,php,mysql,postgres,firebase&theme=dark" />
 
-🥊 Boxer
+**Cloud, DevOps & Tooling**
 
----
-
-# 🚀 Featured Projects
-
-### 🌾 AgroDoot
-AI + IoT Precision Agriculture Platform
-
-✔ Crop Recommendation
-
-✔ Pest Prediction
-
-✔ Smart Irrigation
-
-✔ Firebase + Flutter + FastAPI
-
-✔ Machine Learning
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" />
 
 ---
 
-### 🐞 Agri Pest Risk Prediction
+## 🧠 AI / ML Expertise
 
-Graph Neural Networks
+<div align="center">
 
-NASA POWER API
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Machine Learning Fundamentals** | ⭐⭐⭐⭐☆ | Scikit-learn, feature engineering, model evaluation, deployment pipelines |
+| **Data Processing** | ⭐⭐⭐⭐☆ | Pandas, NumPy, data cleaning, exploratory analysis, Matplotlib visualization |
+| **Deep Learning Architectures** | ⭐⭐⭐⭐☆ | TensorFlow, Graph Neural Networks (GNN) for structured prediction tasks |
+| **Applied AI Systems** | ⭐⭐⭐⭐⭐ | Real-time inference pipelines, IoT sensor fusion, predictive analytics at scale |
+| **Model Deployment** | ⭐⭐⭐⭐☆ | FastAPI-based serving, cloud integration, production monitoring |
 
-TensorFlow
-
-FastAPI
-
-Firebase
-
----
-
-### 💰 Kharcha Pani
-
-AI Powered Expense Tracker
-
-Flutter
-
-Flask
-
-Firebase
-
-Automatic SMS Parsing
-
-Analytics Dashboard
+</div>
 
 ---
 
-# ⚡ Tech Stack
+## 🚀 Featured Projects
 
-## Languages
+<details open>
+<summary><b>🌾 AgroDoot — Scalable AI IoT Precision Agriculture Platform</b></summary>
+<br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,dart,php"/>
-</p>
+An AI and IoT-powered smart farming system that ingests real-time sensor data to deliver actionable, automated recommendations for farmers — architected as a production-ready, cross-platform solution rather than a demo.
 
-## Frontend
+| Category | Details |
+|---|---|
+| **Stack** | Flutter, Firebase, Python, IoT, Machine Learning |
+| **Scale** | Real-time multi-sensor ingestion pipeline across distributed farm nodes |
+| **Performance** | High-volume, low-latency sensor data processing with real-time analytics |
+| **Security** | Firebase Authentication, secured cloud data channels |
+| **Impact** | Improved farmer decision-making via predictive alerts and automated crop insights |
+| **Repository** | [View on GitHub](https://github.com/your-github-username/agrodoot) |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,angular,flutter"/>
-</p>
+Built the cross-platform Android application end-to-end with Firebase Authentication, cloud deployment, and push notifications, then trained and deployed the crop-analytics ML model powering the platform's predictive recommendations. Engineered the IoT data pipeline to handle continuous high-volume sensor streams without compromising responsiveness.
 
-## Backend
+</details>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,fastapi"/>
-</p>
+<br/>
 
-## Database
+<details>
+<summary><b>🐛 Agri-Pest Risk Prediction Backend</b></summary>
+<br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-</p>
+An AI-powered backend service that predicts pest outbreak risk using Graph Neural Networks, combining structured agricultural relationships with live environmental data.
 
-## AI / ML
+| Category | Details |
+|---|---|
+| **Stack** | Python, FastAPI, TensorFlow, Graph Neural Networks (GNN) |
+| **Scale** | Graph-structured modeling across interconnected agricultural risk factors |
+| **Performance** | FastAPI-driven low-latency prediction serving |
+| **Security** | Firebase-backed data access and authentication |
+| **Impact** | Enables proactive, data-driven pest management for farming systems |
+| **Repository** | [View on GitHub](https://github.com/your-github-username/agri-pest-risk-prediction) |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
+Designed and implemented a GNN-based prediction architecture integrated with the NASA POWER API for environmental data, enabling the model to reason over relational agricultural data rather than isolated feature vectors.
 
-## Tools
+</details>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio"/>
-</p>
+<br/>
 
----
+<details>
+<summary><b>💸 Kharcha Pani — AI-Powered Smart Expense Tracker</b></summary>
+<br/>
 
-# 🌍 Connect With Me
+A full-stack personal finance application that automatically detects and categorizes transactions from UPI/banking SMS, removing manual entry from expense tracking entirely.
 
-<p align="center">
+| Category | Details |
+|---|---|
+| **Stack** | Flutter, Flask, Firebase, Kotlin, FCM, Firestore |
+| **Scale** | Real-time sync across devices with live transaction ingestion |
+| **Performance** | Automated SMS parsing with real-time Firestore synchronization |
+| **Security** | Firebase-secured user data and transaction storage |
+| **Impact** | Automated bill splitting, push alerts, and spend analytics for everyday users |
+| **Repository** | [View on GitHub](https://github.com/your-github-username/kharcha-pani) |
 
-<a href="https://www.linkedin.com/in/piyush-jangade-b30b80331/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
+Engineered the automatic UPI/banking SMS transaction detection pipeline in Kotlin, paired with a Flask backend and Firestore for real-time state sync, plus built-in bill-splitting and analytics features.
 
-<a href="https://www.instagram.com/tactical_terrorg/">
-<img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
-</a>
-
-<a href="https://www.youtube.com/@piyush06-y8y">
-<img src="https://img.icons8.com/color/48/youtube-play.png"/>
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush-ouch&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-ouch&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-ouch&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</details>
 
 ---
 
-# 📈 Contribution Graph
+## 💼 Experience
 
-<p align="center">
+**Full-Stack Web Development Intern**
+**Unified Mentor** · July 2025
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-ouch&theme=tokyo-night&hide_border=true"/>
+Developed full-stack web applications using React.js, Express.js, Node.js, MongoDB, and Flask, integrating REST APIs and optimizing SQL database queries.
 
-</p>
+- Built and shipped full-stack features across the MERN + Flask stack
+- Integrated and consumed REST APIs across services
+- Optimized SQL query performance, improving application responsiveness across the development lifecycle
 
----
+`React.js` `Express.js` `Node.js` `MongoDB` `Flask` `REST APIs` `SQL`
 
-# ⚡ GitHub Trophies
+<br/>
 
-<p align="center">
+**Networking Virtual Intern**
+**Cisco** · June 2025 – July 2025
 
-<img src="https://github-profile-trophy.vercel.app/?username=Piyush-ouch&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+Configured routing and switching infrastructure while studying core networking and cybersecurity principles across the full project lifecycle.
 
-</p>
+- Configured routers and switches using Cisco Packet Tracer
+- Studied TCP/IP protocol stacks and cybersecurity fundamentals
+- Contributed to cloud-driven network design across all project phases
 
----
-
-# 💭 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
+`Cisco Packet Tracer` `TCP/IP` `Cybersecurity` `Cloud Networking`
 
 ---
 
-<h2 align="center">
+## 🏆 Achievements
 
-✨ "Turning Ideas into Intelligent Solutions."
+<div align="center">
 
-</h2>
+| Recognition | Details |
+|---|---|
+| 🥇 **Winner — Indradhanu International Hackathon** | PCCOE 2025 · ₹1,00,000 cash prize + ₹1,00,000 Nugen API credits (AgroDoot) |
+| 🎖️ **Technical Excellence Award** | IIT Bombay e-Yantra Innovation Challenge 2025 (AgroDoot) |
+| 🏅 **Best Solution Award** | Nirmaan 3.0 Hackathon 2025 |
+| 🎓 **Reliance Foundation Scholar 2024** | National Rank: 3rd (10th) · 2nd (12th) |
+| 🏏 **Multi-Sport Athlete** | Professional Cricketer, Swimmer & Boxer |
 
-<p align="center">
+</div>
 
-⭐ Thanks for visiting my profile ⭐
+---
 
-</p>
+## 📜 Certifications
+
+<div align="center">
+
+**Cisco**
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Virtual%20Internship-6D28D9?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9"/>
+
+<img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Piyush-ouch&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-ouch&theme=redical&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Piyush-ouch/Piyush-ouch/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced Graph Neural Network architectures
+  - Distributed systems design for IoT-scale data pipelines
+  - Cloud-native ML deployment patterns
+
+Building:
+  - Production-grade AI + IoT agricultural intelligence systems
+  - Full-stack applications with real-time sync and predictive analytics
+
+Exploring:
+  - VectorDB-backed retrieval systems
+  - Edge inference for low-latency IoT applications
+
+Open To:
+  - Software Engineering / ML Engineering Roles
+  - Full-Stack Development Opportunities
+  - Research & Open Source Collaboration
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/piyushjangade06%40gmail.com-2E1065?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushjangade06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build systems that outlast the demo."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=20,11,6&section=footer&reversal=true" width="100%"/>
+
+</div>
