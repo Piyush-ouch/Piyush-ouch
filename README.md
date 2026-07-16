@@ -197,10 +197,9 @@ Configured routing and switching infrastructure while studying core networking a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9"/>
-
-<img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
+![](https://github-readme-stats.shion.dev/api?username=Piyush-ouch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Piyush-ouch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Piyush-ouch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
