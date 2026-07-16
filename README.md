@@ -205,16 +205,6 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Piyush-ouch&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
