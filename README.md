@@ -249,7 +249,16 @@ Open To:
 
 ---
 
+## 📫 Connect With Me
 
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/piyushjangade06%40gmail.com-2E1065?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushjangade06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
+</div>
 
 ---
 
