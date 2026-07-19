@@ -38,7 +38,7 @@ My engineering philosophy centers on **end-to-end ownership**: sourcing and engi
 ```yaml
 Engineer:
   name: "Piyush Jangade"
-  focus: ["Machine Learning", "Full-Stack Engineering", "IoT Systems", "Backend Architecture"]
+  focus: ["Machine Learning", "LLM", "IoT Systems", "Backend Architecture"]
   philosophy: "Ship systems, not scripts"
   mindset: "Product-first, performance-obsessed, security-conscious"
 ```
