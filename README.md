@@ -20,7 +20,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Piyush-ouch&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=7C3AED&labelColor=1e1b2e&logo=github)
+![Followers](https://img.shields.io/github/followers/Piyush-ouch?style=for-the-badge&color=7C3AED&labelColor=1e1b2e&logo=github)
 ![Stars](https://img.shields.io/github/stars/your-github-username?style=for-the-badge&color=6D28D9&labelColor=1e1b2e&logo=github)
 
 </div>
