@@ -100,7 +100,7 @@ An AI and IoT-powered smart farming system that ingests real-time sensor data to
 | **Performance** | High-volume, low-latency sensor data processing with real-time analytics |
 | **Security** | Firebase Authentication, secured cloud data channels |
 | **Impact** | Improved farmer decision-making via predictive alerts and automated crop insights |
-| **Repository** | [View on GitHub](https://github.com/your-github-username/agrodoot) |
+| **Repository** | [View on GitHub](https://github.com/Piyush-ouch/agrodoot) |
 
 Built the cross-platform Android application end-to-end with Firebase Authentication, cloud deployment, and push notifications, then trained and deployed the crop-analytics ML model powering the platform's predictive recommendations. Engineered the IoT data pipeline to handle continuous high-volume sensor streams without compromising responsiveness.
 
