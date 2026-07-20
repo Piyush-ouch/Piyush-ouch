@@ -205,7 +205,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-##  Contribution Activity
+##  Contribution 
 
 <div align="center">
 
