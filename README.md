@@ -100,7 +100,7 @@ An AI and IoT-powered smart farming system that ingests real-time sensor data to
 | **Performance** | High-volume, low-latency sensor data processing with real-time analytics |
 | **Security** | Firebase Authentication, secured cloud data channels |
 | **Impact** | Improved farmer decision-making via predictive alerts and automated crop insights |
-| **Repository** | [View on GitHub](https://github.com/Piyush-ouch/agrodoot) |
+| **Repository** | [View on GitHub](agrodoot.in) |
 
 Built the cross-platform Android application end-to-end with Firebase Authentication, cloud deployment, and push notifications, then trained and deployed the crop-analytics ML model powering the platform's predictive recommendations. Engineered the IoT data pipeline to handle continuous high-volume sensor streams without compromising responsiveness.
 
@@ -121,7 +121,7 @@ An AI-powered backend service that predicts pest outbreak risk using Graph Neura
 | **Performance** | FastAPI-driven low-latency prediction serving |
 | **Security** | Firebase-backed data access and authentication |
 | **Impact** | Enables proactive, data-driven pest management for farming systems |
-| **Repository** | [View on GitHub](https://github.com/your-github-username/agri-pest-risk-prediction) |
+| **Repository** | [View on GitHub](https://github.com/Piyush-ouch/pest-prediction-) |
 
 Designed and implemented a GNN-based prediction architecture integrated with the NASA POWER API for environmental data, enabling the model to reason over relational agricultural data rather than isolated feature vectors.
 
@@ -142,7 +142,7 @@ A full-stack personal finance application that automatically detects and categor
 | **Performance** | Automated SMS parsing with real-time Firestore synchronization |
 | **Security** | Firebase-secured user data and transaction storage |
 | **Impact** | Automated bill splitting, push alerts, and spend analytics for everyday users |
-| **Repository** | [View on GitHub](https://github.com/your-github-username/kharcha-pani) |
+| **Repository** | [View on GitHub](https://github.com/Piyush-ouch/expense_tracker) |
 
 Engineered the automatic UPI/banking SMS transaction detection pipeline in Kotlin, paired with a Flask backend and Firestore for real-time state sync, plus built-in bill-splitting and analytics features.
 
