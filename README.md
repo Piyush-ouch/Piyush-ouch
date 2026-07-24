@@ -231,7 +231,7 @@ Configured routing and switching infrastructure while studying core networking a
 Learning:
   - Advanced Graph Neural Network architectures
   - Distributed systems design for IoT-scale data pipelines
-  - 
+  - Cloud-native ML deployment patterns
 
 Building:
   - Production-grade AI + IoT agricultural intelligence systems
