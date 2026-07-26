@@ -109,7 +109,7 @@ Built the cross-platform Android application end-to-end with Firebase Authentica
 <br/>
 
 <details>
-<summary><b>🐛 Agri-Pest Risk Prediction Backend</b></summary>
+<summary><b> Agri-Pest Risk Prediction Backend</b></summary>
 <br/>
 
 An AI-powered backend service that predicts pest outbreak risk using Graph Neural Networks, combining structured agricultural relationships with live environmental data.
