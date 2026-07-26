@@ -49,7 +49,7 @@ Engineer:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
