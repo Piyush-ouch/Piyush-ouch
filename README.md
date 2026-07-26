@@ -178,7 +178,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
