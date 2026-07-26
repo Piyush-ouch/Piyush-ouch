@@ -43,7 +43,7 @@ Engineer:
   mindset: "Product-first, performance-obsessed, security-conscious"
 ```
 
-** Open To:** Software Engineering Internships/Roles · Machine Learning Engineering · Full-Stack Development · Research Collaborations
+**Open To:** Software Engineering Internships/Roles · Machine Learning Engineering · Full-Stack Development · Research Collaborations
 
 <br clear="right"/>
 
@@ -65,7 +65,7 @@ Engineer:
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,docker,AWS&theme=dark" />
 
 ---
 
