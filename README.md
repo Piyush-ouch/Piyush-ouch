@@ -43,7 +43,7 @@ Engineer:
   mindset: "Product-first, performance-obsessed, security-conscious"
 ```
 
-**🎯 Open To:** Software Engineering Internships/Roles · Machine Learning Engineering · Full-Stack Development · Research Collaborations
+** Open To:** Software Engineering Internships/Roles · Machine Learning Engineering · Full-Stack Development · Research Collaborations
 
 <br clear="right"/>
 
