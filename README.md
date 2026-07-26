@@ -130,7 +130,7 @@ Designed and implemented a GNN-based prediction architecture integrated with the
 <br/>
 
 <details>
-<summary><b>💸 Kharcha Pani — AI-Powered Smart Expense Tracker</b></summary>
+<summary><b> Kharcha Pani — AI-Powered Smart Expense Tracker</b></summary>
 <br/>
 
 A full-stack personal finance application that automatically detects and categorizes transactions from UPI/banking SMS, removing manual entry from expense tracking entirely.
