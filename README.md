@@ -150,7 +150,7 @@ Engineered the automatic UPI/banking SMS transaction detection pipeline in Kotli
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Full-Stack Web Development Intern**
 **Unified Mentor** · July 2025
