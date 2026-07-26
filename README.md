@@ -85,7 +85,7 @@ Engineer:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details open>
 <summary><b>🌾 AgroDoot — Scalable AI IoT Precision Agriculture Platform</b></summary>
