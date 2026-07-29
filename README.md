@@ -116,7 +116,7 @@ An AI-powered backend service that predicts pest outbreak risk using Graph Neura
 
 | Category | Details |
 |---|---|
-| **Stack** | Python, FastAPI, TensorFlow, Graph Neural Networks (GNN),ANN |
+| **Stack** | Python, FastAPI, TensorFlow, Graph Neural Networks (GNN),ANN,Deep learning |
 | **Scale** | Graph-structured modeling across interconnected agricultural risk factors |
 | **Performance** | FastAPI-driven low-latency prediction serving |
 | **Security** | Firebase-backed data access and authentication |
