@@ -240,6 +240,7 @@ Building:
 Exploring:
   - VectorDB-backed retrieval systems
   - Edge inference for low-latency IoT applications
+  - open source contritbution
 
 Open To:
   - Software Engineering / ML Engineering Roles
