@@ -68,6 +68,8 @@ Engineer:
 
 ---
 
+##  AI / ML Expertise
+
 
 <div align="center">
 
