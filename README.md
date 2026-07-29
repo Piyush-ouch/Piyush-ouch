@@ -153,7 +153,7 @@ Engineered the automatic UPI/banking SMS transaction detection pipeline in Kotli
 ##  Experience
 
 **Full-Stack Web Development Intern**
-**Unified Mentor** · July 2025
+**Unified Mentor** · 2025
 
 Developed full-stack web applications using React.js, Express.js, Node.js, MongoDB, and Flask, integrating REST APIs and optimizing SQL database queries.
 
