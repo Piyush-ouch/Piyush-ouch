@@ -49,7 +49,6 @@ Engineer:
 
 ---
 
-## Tech Stack
 
 **Languages**
 
