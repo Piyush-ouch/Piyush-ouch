@@ -269,6 +269,7 @@ Learning:
   - Advanced Graph Neural Network architectures
   - Distributed systems design for IoT-scale data pipelines
   - Cloud-native ML deployment patterns
+  - Open Source Contribution
 
 Building:
   - Production-grade AI + IoT agricultural intelligence systems
