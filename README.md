@@ -206,7 +206,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -219,7 +219,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -229,7 +229,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -239,7 +239,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -249,7 +249,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Learning:
@@ -273,7 +273,7 @@ Open To:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
