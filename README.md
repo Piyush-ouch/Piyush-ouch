@@ -277,9 +277,7 @@ Open To:
 ---
 
 <div align="center">
-
 *"Build systems that outlast the demo."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=20,11,6&section=footer&reversal=true" width="100%"/>
 
 </div>
