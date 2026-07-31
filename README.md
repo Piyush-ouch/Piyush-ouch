@@ -256,10 +256,12 @@ Learning:
   - Advanced Graph Neural Network architectures
   - Distributed systems design for IoT-scale data pipelines
   - Cloud-native ML deployment patterns
+  - Open Source Contribution
 
 Building:
   - Production-grade AI + IoT agricultural intelligence systems
   - Full-stack applications with real-time sync and predictive analytics
+  - Agent AI Appplication
 
 Exploring:
   - VectorDB-backed retrieval systems
