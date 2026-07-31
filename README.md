@@ -184,11 +184,11 @@ Configured routing and switching infrastructure while studying core networking a
 
 | Recognition | Details |
 |---|---|
-| 🥇 **Winner — Indradhanu International Hackathon** | PCCOE 2025 · ₹1,00,000 cash prize + ₹1,00,000 Nugen API credits (AgroDoot) |
-| 🎖️ **Technical Excellence Award** | IIT Bombay e-Yantra Innovation Challenge 2025 (AgroDoot) |
-| 🏅 **Best Solution Award** | Nirmaan 3.0 Hackathon 2025 |
-| 🎓 **Reliance Foundation Scholar 2024** | National Rank: 3rd (10th) · 2nd (12th) |
-| 🏏 **Multi-Sport Athlete** | Professional Cricketer, Swimmer & Boxer |
+|  **Winner — Indradhanu International Hackathon** | PCCOE 2025 · ₹1,00,000 cash prize + ₹1,00,000 Nugen API credits (AgroDoot) |
+|  **Technical Excellence Award** | IIT Bombay e-Yantra Innovation Challenge 2025 (AgroDoot) |
+|  **Best Solution Award** | Nirmaan 3.0 Hackathon 2025 |
+|  **Reliance Foundation Scholar 2024** | National Rank: 3rd (10th) · 2nd (12th) |
+|  **Multi-Sport Athlete** | Professional Cricketer, Swimmer & Boxer |
 
 </div>
 
