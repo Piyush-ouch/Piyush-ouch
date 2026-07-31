@@ -178,7 +178,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -201,19 +201,6 @@ Configured routing and switching infrastructure while studying core networking a
 **Cisco**
 
 ![Cisco](https://img.shields.io/badge/Cisco-Networking%20Virtual%20Internship-6D28D9?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-2E1065?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-gfg-username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-hackerrank-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-codechef-username)
 
 </div>
 
