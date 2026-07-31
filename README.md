@@ -85,10 +85,10 @@ Engineer:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details open>
-<summary><b>🌾 AgroDoot — Scalable AI IoT Precision Agriculture Platform</b></summary>
+<summary><b> AgroDoot — Scalable AI IoT Precision Agriculture Platform</b></summary>
 <br/>
 
 An AI and IoT-powered smart farming system that ingests real-time sensor data to deliver actionable, automated recommendations for farmers — architected as a production-ready, cross-platform solution rather than a demo.
@@ -109,7 +109,7 @@ Built the cross-platform Android application end-to-end with Firebase Authentica
 <br/>
 
 <details>
-<summary><b>🐛 Agri-Pest Risk Prediction Backend</b></summary>
+<summary><b> Agri-Pest Risk Prediction Backend</b></summary>
 <br/>
 
 An AI-powered backend service that predicts pest outbreak risk using Graph Neural Networks, combining structured agricultural relationships with live environmental data.
@@ -130,7 +130,7 @@ Designed and implemented a GNN-based prediction architecture integrated with the
 <br/>
 
 <details>
-<summary><b>💸 Kharcha Pani — AI-Powered Smart Expense Tracker</b></summary>
+<summary><b>Kharcha Pani — AI-Powered Smart Expense Tracker</b></summary>
 <br/>
 
 A full-stack personal finance application that automatically detects and categorizes transactions from UPI/banking SMS, removing manual entry from expense tracking entirely.
@@ -150,7 +150,7 @@ Engineered the automatic UPI/banking SMS transaction detection pipeline in Kotli
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Full-Stack Web Development Intern**
 **Unified Mentor** · July 2025
@@ -194,7 +194,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 <div align="center">
 
