@@ -194,18 +194,6 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-##  Certifications
-
-<div align="center">
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Virtual%20Internship-6D28D9?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
