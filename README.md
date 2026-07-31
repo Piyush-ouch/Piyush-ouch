@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Piyush%20Jangade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Systems%20Thinker&descAlignY=58&descSize=18" width="100%"/>
 
@@ -109,7 +109,7 @@ Built the cross-platform Android application end-to-end with Firebase Authentica
 <br/>
 
 <details>
-<summary><b> Agri-Pest Risk Prediction Backend</b></summary>
+<summary><b>🐛 Agri-Pest Risk Prediction Backend</b></summary>
 <br/>
 
 An AI-powered backend service that predicts pest outbreak risk using Graph Neural Networks, combining structured agricultural relationships with live environmental data.
@@ -150,7 +150,7 @@ Engineered the automatic UPI/banking SMS transaction detection pipeline in Kotli
 
 ---
 
-##  Experience
+## 💼 Experience
 
 **Full-Stack Web Development Intern**
 **Unified Mentor** · July 2025
@@ -178,7 +178,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-##  Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -194,7 +194,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-##  Certifications
+## 📜 Certifications
 
 <div align="center">
 
@@ -206,7 +206,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-##  Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
 
@@ -219,7 +219,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-##  GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -232,7 +232,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-##  GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -242,7 +242,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-##  Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -252,7 +252,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -269,7 +269,6 @@ Learning:
   - Advanced Graph Neural Network architectures
   - Distributed systems design for IoT-scale data pipelines
   - Cloud-native ML deployment patterns
-  - Open Source Contribution
 
 Building:
   - Production-grade AI + IoT agricultural intelligence systems
