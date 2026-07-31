@@ -27,7 +27,7 @@
 
 <br/>
 
-## ⚡ About Me
+##  About Me
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385fa11ecb.gif">
 
@@ -43,13 +43,13 @@ Engineer:
   mindset: "Product-first, performance-obsessed, security-conscious"
 ```
 
-**🎯 Open To:** Software Engineering Internships/Roles · Machine Learning Engineering · Full-Stack Development · Research Collaborations
+** Open To:** Software Engineering Internships/Roles · Machine Learning Engineering · Full-Stack Development · Research Collaborations
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -69,7 +69,7 @@ Engineer:
 
 ---
 
-## 🧠 AI / ML Expertise
+##  AI / ML Expertise
 
 <div align="center">
 
