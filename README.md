@@ -156,11 +156,9 @@ Engineered the automatic UPI/banking SMS transaction detection pipeline in Kotli
 **Unified Mentor** · July 2025
 
 Developed full-stack web applications using React.js, Express.js, Node.js, MongoDB, and Flask, integrating REST APIs and optimizing SQL database queries.
-
 - Built and shipped full-stack features across the MERN + Flask stack
 - Integrated and consumed REST APIs across services
 - Optimized SQL query performance, improving application responsiveness across the development lifecycle
-
 `React.js` `Express.js` `Node.js` `MongoDB` `Flask` `REST APIs` `SQL`
 
 <br/>
