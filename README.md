@@ -65,7 +65,7 @@ Engineer:
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,supabase,docker&theme=dark" />
 
 ---
 
