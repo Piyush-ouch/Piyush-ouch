@@ -229,7 +229,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/your-github-username/Piyush-ouch/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
