@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Piyush%20Jangade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Systems%20Thinker&descAlignY=58&descSize=18" width="100%"/>
 
