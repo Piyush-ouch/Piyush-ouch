@@ -1,5 +1,5 @@
-
-
+<div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Piyush%20Jangade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Systems%20Thinker&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+AI+%2B+IoT+Systems;Machine+Learning+%7C+Full-Stack+Engineering;Turning+Data+Into+Decisions;Open+to+Software+%2F+ML+Engineering+Roles" alt="Typing SVG" />
