@@ -209,7 +209,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Piyush-ouch&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
 
 </div>
 
