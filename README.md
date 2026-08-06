@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Piyush%20Jangade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Systems%20Thinker&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Piyush%20Jangade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/[...]" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+AI+%2B+IoT+Systems;Machine+Learning+%7C+Full-Stack+Engineering;Turning+Data+Into+Decisions;Open+to+Software+%2F+ML+Engineering+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+AI+%2B+IoT+Systems;Machine+Le[...]" />
 
 <br/>
 
@@ -12,16 +12,16 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Piyush-ouch/portfolio1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-jangade-b30b80331/)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushjangade06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush-ouch)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=7C3AED&labelColor=1e1b2e&logo=github)
-![Stars](https://img.shields.io/github/stars/your-github-username?style=for-the-badge&color=6D28D9&labelColor=1e1b2e&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Piyush-ouch&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Piyush-ouch?style=for-the-badge&color=7C3AED&labelColor=1e1b2e&logo=github)
+![Stars](https://img.shields.io/github/stars/Piyush-ouch?style=for-the-badge&color=6D28D9&labelColor=1e1b2e&logo=github)
 
 </div>
 
@@ -31,9 +31,9 @@
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385fa11ecb.gif">
 
-I'm an **AI/ML Engineer and Full-Stack Developer** pursuing my B.Tech in Artificial Intelligence and Machine Learning at MIT Academy of Engineering, Pune. I build production-grade systems that sit at the intersection of **machine learning, IoT, and scalable full-stack architecture** — not prototypes, but products designed to run in the real world under real constraints.
+I'm an **AI/ML Engineer and Full-Stack Developer** pursuing my B.Tech in Artificial Intelligence and Machine Learning at MIT Academy of Engineering, Pune. I build production-grade systems that sit[...]
 
-My engineering philosophy centers on **end-to-end ownership**: sourcing and engineering data, training and deploying models, and shipping the applications that put those models in front of real users. I care about performance, security, and systems that scale gracefully rather than break quietly.
+My engineering philosophy centers on **end-to-end ownership**: sourcing and engineering data, training and deploying models, and shipping the applications that put those models in front of real us[...]
 
 ```yaml
 Engineer:
@@ -91,7 +91,7 @@ Engineer:
 <summary><b> AgroDoot — Scalable AI IoT Precision Agriculture Platform</b></summary>
 <br/>
 
-An AI and IoT-powered smart farming system that ingests real-time sensor data to deliver actionable, automated recommendations for farmers — architected as a production-ready, cross-platform solution rather than a demo.
+An AI and IoT-powered smart farming system that ingests real-time sensor data to deliver actionable, automated recommendations for farmers — architected as a production-ready, cross-platform sol[...]
 
 | Category | Details |
 |---|---|
@@ -100,9 +100,9 @@ An AI and IoT-powered smart farming system that ingests real-time sensor data to
 | **Performance** | High-volume, low-latency sensor data processing with real-time analytics |
 | **Security** | Firebase Authentication, secured cloud data channels |
 | **Impact** | Improved farmer decision-making via predictive alerts and automated crop insights |
-| **Repository** | [View on GitHub](https://github.com/your-github-username/agrodoot) |
+| **Repository** | [View on GitHub](https://github.com/Piyush-ouch/AgroDoot-Website) |
 
-Built the cross-platform Android application end-to-end with Firebase Authentication, cloud deployment, and push notifications, then trained and deployed the crop-analytics ML model powering the platform's predictive recommendations. Engineered the IoT data pipeline to handle continuous high-volume sensor streams without compromising responsiveness.
+Built the cross-platform Android application end-to-end with Firebase Authentication, cloud deployment, and push notifications, then trained and deployed the crop-analytics ML model powering the platf[...]
 
 </details>
 
@@ -121,9 +121,9 @@ An AI-powered backend service that predicts pest outbreak risk using Graph Neura
 | **Performance** | FastAPI-driven low-latency prediction serving |
 | **Security** | Firebase-backed data access and authentication |
 | **Impact** | Enables proactive, data-driven pest management for farming systems |
-| **Repository** | [View on GitHub](https://github.com/your-github-username/agri-pest-risk-prediction) |
+| **Repository** | [View on GitHub](https://github.com/Piyush-ouch/pest-prediction-) |
 
-Designed and implemented a GNN-based prediction architecture integrated with the NASA POWER API for environmental data, enabling the model to reason over relational agricultural data rather than isolated feature vectors.
+Designed and implemented a GNN-based prediction architecture integrated with the NASA POWER API for environmental data, enabling the model to reason over relational agricultural data rather than [...]
 
 </details>
 
@@ -142,9 +142,9 @@ A full-stack personal finance application that automatically detects and categor
 | **Performance** | Automated SMS parsing with real-time Firestore synchronization |
 | **Security** | Firebase-secured user data and transaction storage |
 | **Impact** | Automated bill splitting, push alerts, and spend analytics for everyday users |
-| **Repository** | [View on GitHub](https://github.com/your-github-username/kharcha-pani) |
+| **Repository** | [View on GitHub](https://github.com/Piyush-ouch/expense_tracker) |
 
-Engineered the automatic UPI/banking SMS transaction detection pipeline in Kotlin, paired with a Flask backend and Firestore for real-time state sync, plus built-in bill-splitting and analytics features.
+Engineered the automatic UPI/banking SMS transaction detection pipeline in Kotlin, paired with a Flask backend and Firestore for real-time state sync, plus built-in bill-splitting and analytics f[...]
 
 </details>
 
@@ -196,10 +196,10 @@ Configured routing and switching infrastructure while studying core networking a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Piyush-ouch&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-ouch&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c" />
 
-<img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
+<img src="https://streak-stats.demolab.com?user=Piyush-ouch&theme=radical&hide_border=true&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
 
 </div>
 
@@ -219,7 +219,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=redical&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-ouch&theme=radical&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -229,7 +229,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-github-username/Piyush-ouch/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Piyush-ouch/Piyush-ouch/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -247,7 +247,7 @@ Learning:
 Building:
   - Production-grade AI + IoT agricultural intelligence systems
   - Full-stack applications with real-time sync and predictive analytics
-  - Agent AI Appplication
+  - Agent AI Application
 
 Exploring:
   - VectorDB-backed retrieval systems
@@ -266,9 +266,9 @@ Open To:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/piyushjangade06%40gmail.com-2E1065?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushjangade06@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-jangade-b30b80331/)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush-ouch)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Piyush-ouch/portfolio1)
 
 </div>
 
