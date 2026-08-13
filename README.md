@@ -209,7 +209,39 @@ Configured routing and switching infrastructure while studying core networking a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Piyush-ouch&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Piyush-ouch&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=3&column=7" />
+
+</div>
+
+---
+
+##  Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/Piyush-ouch/AgroDoot-Website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-ouch&repo=AgroDoot-Website&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6" />
+</a>
+<a href="https://github.com/Piyush-ouch/pest-prediction-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-ouch&repo=pest-prediction-&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6" />
+</a>
+<a href="https://github.com/Piyush-ouch/expense_tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-ouch&repo=expense_tracker&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6" />
+</a>
+<a href="https://github.com/Piyush-ouch/portfolio1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-ouch&repo=portfolio1&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6" />
+</a>
+
+</div>
+
+---
+
+##  Language Stats
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-ouch&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c&layout=donut&size_weight=0.5&count_weight=0.5" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-ouch&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c&layout=pie&size_weight=0.5&count_weight=0.5" />
 
 </div>
 
@@ -219,7 +251,7 @@ Configured routing and switching infrastructure while studying core networking a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-ouch&theme=radical&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-ouch&theme=radical&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true&area=true&area_color=A78BFA" width="100%"/>
 
 </div>
 
