@@ -1,5 +1,5 @@
 
-<div align="center">
+
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Piyush%20Jangade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML" />
 
